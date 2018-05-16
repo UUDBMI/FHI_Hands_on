@@ -1,4 +1,49 @@
-# Foundations of Healthcare Informatics (2017 Fall) Module 7 Hands on project
+# Using Natural Language Processing to Indentify Patients with Family History of Breast and/orColon Cancer
+
+## Case Study Outcomes 
+
+1.  Develop a rule-based nlp pipeline from templates, and fine tune the rules
+2.  Use python and jupyter notebook to execute the NLP pipeline
+3.  Visualize NLP output
+4.  Preform error analyses and evaluation; Compare Trade-offs between recall and precision
+5.  Identify nuances in NLP development
+
+## Pre-Requisite Skills
+
+In order to participate in this module the student should have the following skills and knowledge
+
+1.  Basic knowledge and familiarity with python and jupyter notebook
+2.  Basic skill of using git
+3.  Basic understanding of family history, breast cancer, colon cancer.
+4.  Basic knowledge of regular expression
+
+## Data Science Components with Associated Knowledge and Skill Sets
+
+### **Knowledge Representation**
+
+1.  Identify patient family history of breast cancer or colon cancer from clinical notes
+1.  Gain rule-based NLP knowledge and skills
+
+### **Computation**
+
+1.  Use python to build a rule-based NLP pipeline
+1.  Use python to evaluate NLP performance
+
+### **Visualization**
+
+1.  Use built-in packages to visualize the NLP output
+
+### **Statistical Analysis**
+
+1.  Contingency tables
+1.  NLP performance measurements
+
+## Case Study Materials 
+
+1.  [**GitHub Repository**](https://github.com/UUDBMI/FHI_Hands_on)
+2.  [**MIMIC II*** ***demo dataset**](https://physionet.org/mimic2/demo/)
+3.  [**Bibliography**]() 
+
 This project demonstrates how to use [pyConText](https://github.com/chapmanbe/pyConTextNLP) to identify the patients with family history of breast cancer and/or colon cancer, with the nice real time visualization adopted from the Brat's design [2]. For example，
 
 ![pycontext visual](/img/snapshot3.png)
